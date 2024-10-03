@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and AI Solutions
 ------------------------------
 
-Passionate Senior Computer Science student in my 4th year of college, exploring cutting-edge technologies to build a focused career in programming. I specialize in AI solutions using Python and dynamic web development with Laravel, while actively expanding my skills in the TALL stack (Tailwind, Alpine.js, Laravel, and Livewire). Alongside these, I have experience in IoT and Flutter for Android mobile development. As a freelancer, I continuously take on projects that enhance my abilities in AI, web, and mobile development.
+Passionate Senior Computer Science student in my 4th year of college, exploring cutting-edge technologies to build a focused career in programming. I specialize in AI solutions using Python and dynamic web development with Laravel, while actively expanding my skills in the TALL stack (Tailwind, Alpine.js, Laravel, and Livewire). Alongside these, I have experience in Data Analytics, IoT and Flutter for Android mobile development. As a freelancer, I continuously take on projects that enhance my abilities in AI, web, and mobile development.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [lokodata115@gmail.com](mailto:lokodata115@gmail.com)
