@@ -34,8 +34,23 @@ src="https://img.shields.io/twitch/status/lokodata?logo=twitchsx&style=for-the-b
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/lokodata/thirteaann_pos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=thirteaann_pos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lokodata/flutter_gemini_chatbot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=flutter_gemini_chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/lokodata/thirteaann_pos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=thirteaann_pos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lokodata/flutter_gemini_chatbot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=flutter_gemini_chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
+<br /><br /><br /><br />
+
 
 <div width="100%" align="center"><a href="https://github.com/lokodata/money_manager_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=money_manager_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lokodata/mobile_development_flutter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=mobile_development_flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br />
+<br /><br /><br /><br />
+
+<div width="100%" align="center">
+    <a href="https://github.com/lokodata/algorithms_and_data_structures_in_dart" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=algorithms_and_data_structures_in_dart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/lokodata/data_analyst_projects" align="right">
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lokodata&repo=data_analyst_projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+</div>
+
